@@ -149,7 +149,8 @@ brew install figlet fortune cowsay lolcat
 
 echo "Creating Apple logo..."
 cat > ~/.apple_logo <<'EOF'
-                                                                            
+
+
                                                                                                           #@@@@                                
                                                                                                        ,@@@@@@#                                
                                                                                                       %@@@@@@,                                 
